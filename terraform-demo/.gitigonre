@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform-provider-aws*
+*.exe
+venv/
+__pycache__/
