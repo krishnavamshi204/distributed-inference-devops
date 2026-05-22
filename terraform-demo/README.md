@@ -59,7 +59,9 @@ SSH Key Configuration
 api-server
 caller-worker
 inference-worker
-Project Structure
+
+##Project Structure
+
 distributed-inference/
 │
 ├── terraform-demo/
@@ -80,6 +82,7 @@ distributed-inference/
 │ ├── terraform-output.png
 │
 ├── README.md
+
 Terraform Setup
 Initialize Terraform
 terraform init
