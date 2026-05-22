@@ -60,7 +60,7 @@ api-server
 caller-worker
 inference-worker
 
-##Project Structure
+Project Structure
 
 distributed-inference/
 │
